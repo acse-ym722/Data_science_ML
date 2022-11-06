@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "lectures",
+			"path": "../../ACSE2：mathematic/computational-mathematics/lectures"
+		},
+		{
+			"name": "lecture04",
+			"path": "../../lectures/lecture04"
+		},
+		{
+			"name": "lecture05",
+			"path": "../../lectures/lecture05"
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"c:\\Users\\Meng Yang\\.vscode\\extensions\\stefanwehr.write-your-python-program-1.0.1\\python\\src\\"
+		],
+		"python.linting.enabled": false,
+		"python.analysis.extraPaths": [
+			"c:\\Users\\Meng Yang\\.vscode\\extensions\\stefanwehr.write-your-python-program-1.0.1\\python\\src\\"
+		]
+	}
+}
